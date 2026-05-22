@@ -7,7 +7,7 @@ function Skills() {
       className="w-full h-screen snap-start flex items-center justify-center overflow-hidden relative text-slate-100 bg-[#07020f]"
     >
 
-      {/* ─── RED CINEMATIC BACKGROUND ─── */}
+      
       <div className="absolute top-[-10%] right-[-10%] w-[70vw] h-[70vw] bg-gradient-to-bl from-red-600/20 via-rose-500/10 to-transparent rounded-full blur-[150px]" />
       <div className="absolute bottom-[-20%] left-[-10%] w-[65vw] h-[65vw] bg-gradient-to-tr from-orange-500/10 via-red-500/10 to-transparent rounded-full blur-[140px]" />
       <div className="absolute top-1/3 left-1/4 w-[40vw] h-[40vw] bg-red-500/5 rounded-full blur-[120px] animate-pulse" />
